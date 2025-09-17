@@ -1,0 +1,2694 @@
+Ids,Sentiment,Sarcasm,Vulgar,Abuse,Target
+image_ben_3635.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_1586.png,Negative,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_4040.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_5074.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_7351.jpg,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_3945.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_4715.jpg,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_4801.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_7196.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_4743.jpg,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_3763.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_3760.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_2938.png,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_4829.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_1433.png,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_3611.jpg,Neutral,Sarcastic,Vulgar,Abusive,Gender
+image_ben_1658.png,Negative,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_4541.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_5024.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_3586.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_1665.png,Negative,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_5081.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_1336.png,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_4042.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_4845.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_3058.png,Negative,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_4479.jpg,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_1443.png,Neutral,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_4854.jpg,Neutral,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_1464.png,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_4822.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_3395.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_4741.jpg,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_4706.jpg,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_7295.jpg,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_4689.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_3702.jpg,Neutral,Sarcastic,Vulgar,Abusive,Gender
+image_ben_1686.png,Negative,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_1701.png,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_4589.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_3944.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_2556.png,Negative,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_1436.png,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_4841.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_3310.jpg,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_1424.png,Positive,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_4846.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_3703.jpg,Neutral,Sarcastic,Vulgar,Abusive,Gender
+image_ben_1489.png,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_1594.png,Negative,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_5254.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_4010.jpg,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_3901.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_4631.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_1909.png,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_4044.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Gender
+image_ben_7453.jpg,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_3909.jpg,Negative,Sarcastic,Vulgar,Abusive,Gender
+image_ben_3695.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_4263.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_4894.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_5072.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Gender
+image_ben_7369.jpg,Negative,Sarcastic,Vulgar,Abusive,"Gender, Individual"
+image_ben_3318.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,"Gender, Individual"
+image_ben_7272.jpg,Negative,Sarcastic,Vulgar,Abusive,"Gender, Individual"
+image_ben_7366.jpg,Negative,Sarcastic,Vulgar,Abusive,"Gender, Individual"
+image_ben_4709.jpg,Negative,Sarcastic,Vulgar,Abusive,"Gender, Individual"
+image_ben_3348.jpg,Negative,Sarcastic,Non Vulgar,Abusive,"Gender, Individual"
+image_ben_3309.jpg,Negative,Sarcastic,Vulgar,Abusive,"Gender, Individual"
+image_ben_3174.png,Negative,Sarcastic,Non Vulgar,Abusive,"Gender, Individual, Political"
+image_ben_676.png,Negative,Sarcastic,Vulgar,Abusive,"Gender, Individual, Political, Religion"
+image_ben_996.png,Negative,Sarcastic,Non Vulgar,Abusive,"Gender, Individual, Religion"
+image_ben_760.png,Negative,Sarcastic,Non Vulgar,Abusive,"Gender, National Origin, Political"
+image_ben_1791.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,"Gender, Religion"
+image_ben_7680.jpg,Negative,Sarcastic,Vulgar,Abusive,"Gender, Social Sub-groups"
+image_ben_7214.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4186.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4657.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_7345.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4231.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_4189.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_7692.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4782.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_5150.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4031.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_7394.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_5104.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_4678.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4978.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4744.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_4779.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_3416.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_3723.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_5248.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_7312.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_7688.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4590.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_3621.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_3526.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_5047.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_151.png,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4570.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_3579.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_7698.jpg,Positive,Sarcastic,Vulgar,Abusive,Individual
+image_ben_3620.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_3825.jpg,Neutral,Sarcastic,Vulgar,Abusive,Individual
+image_ben_7693.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4137.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_1329.png,Positive,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4716.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_3538.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4553.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4234.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_4337.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_5147.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_7352.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4793.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4501.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_5220.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4701.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_4583.jpg,Neutral,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4966.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4967.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4184.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4564.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_3726.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_1455.png,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_5222.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_1962.png,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4638.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4098.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4344.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4855.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_7642.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4654.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_7213.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4563.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_7212.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4557.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_4677.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_3504.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4211.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4778.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_5262.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4227.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_3734.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4560.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_3731.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_3917.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_5295.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_2988.png,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_1564.png,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_7636.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_5176.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4483.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_5270.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4341.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_4656.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_5167.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4640.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_5083.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_4673.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_2979.png,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_7647.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4658.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4965.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_5045.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4788.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4763.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4738.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_4353.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_5273.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_5073.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4492.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_1941.png,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_3771.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_7435.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4530.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_1469.png,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_3916.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4327.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4676.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_1189.png,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_5219.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_5111.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_1447.png,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_4813.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_7585.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4222.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_3775.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4255.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4660.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4717.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_17.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4798.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_5239.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_5200.jpg,Neutral,Sarcastic,Vulgar,Abusive,Individual
+image_ben_7702.jpg,Positive,Sarcastic,Vulgar,Abusive,Individual
+image_ben_5266.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4339.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_7542.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4789.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_4623.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4687.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4815.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_3855.jpg,Negative,Sarcastic,Vulgar,Abusive,Individual
+image_ben_4843.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_1126.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_4797.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_4941.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Individual
+image_ben_3844.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Individual
+image_ben_1581.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, National Origin"
+image_ben_742.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, National Origin, Political"
+image_ben_168.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, National Origin, Religion"
+image_ben_415.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_4435.jpg,Positive,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_382.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_1089.png,Neutral,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_388.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_4405.jpg,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_725.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_943.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_391.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_1097.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_2026.png,Negative,Non-Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_1120.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_7.jpg,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_709.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_2024.png,Negative,Non-Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_3154.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_405.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_1740.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_187.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_1081.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_1086.png,Negative,Non-Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_446.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_4430.jpg,Positive,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_1015.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_974.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_2043.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_1095.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_408.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_4367.jpg,Positive,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_4436.jpg,Positive,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_1810.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_410.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_5094.jpg,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_4396.jpg,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_4305.jpg,Positive,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_1053.png,Positive,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_1041.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_1886.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_389.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_637.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_505.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_2048.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_778.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_376.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_5132.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_1021.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_390.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_521.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_626.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_200.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_644.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_201.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_3947.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_4448.jpg,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_982.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_2021.png,Negative,Non-Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_401.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_1013.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_385.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_527.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_1054.png,Neutral,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_533.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_1157.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_522.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_590.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_3028.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_437.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_4041.jpg,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_1066.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_1748.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_4781.jpg,Negative,Sarcastic,Vulgar,Abusive,"Individual, Political"
+image_ben_600.png,Negative,Sarcastic,Non Vulgar,Abusive,"Individual, Political"
+image_ben_1082.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,"Individual, Political, Religion"
+image_ben_4975.jpg,Positive,Sarcastic,Non Vulgar,Abusive,"Individual, Religion"
+image_ben_4370.jpg,Positive,Sarcastic,Non Vulgar,Abusive,"Individual, Religion"
+image_ben_1077.png,Negative,Sarcastic,Vulgar,Abusive,"Individual, Religion"
+image_ben_2864.png,Negative,Sarcastic,Non Vulgar,Abusive,National Origin
+image_ben_1920.png,Negative,Sarcastic,Vulgar,Abusive,National Origin
+image_ben_2576.png,Positive,Non-Sarcastic,Non Vulgar,Abusive,National Origin
+image_ben_2818.png,Negative,Sarcastic,Non Vulgar,Abusive,National Origin
+image_ben_2399.png,Negative,Sarcastic,Non Vulgar,Abusive,National Origin
+image_ben_1963.png,Negative,Sarcastic,Non Vulgar,Abusive,National Origin
+image_ben_23.png,Negative,Sarcastic,Vulgar,Abusive,National Origin
+image_ben_169.png,Negative,Sarcastic,Vulgar,Abusive,"National Origin, Political"
+image_ben_558.png,Negative,Sarcastic,Vulgar,Abusive,"National Origin, Religion"
+image_ben_5195.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4288.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_3482.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4287.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4105.jpg,Neutral,Sarcastic,Vulgar,Abusive,None
+image_ben_4445.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_1218.png,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4343.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4235.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_3667.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,None
+image_ben_5148.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4858.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,None
+image_ben_3622.jpg,Neutral,Sarcastic,Vulgar,Abusive,None
+image_ben_5293.jpg,Positive,Sarcastic,Vulgar,Abusive,None
+image_ben_5142.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_3358.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_7665.jpg,Negative,Sarcastic,Non Vulgar,Abusive,None
+image_ben_3503.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4574.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,None
+image_ben_5208.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_2464.png,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4187.jpg,Negative,Sarcastic,Non Vulgar,Abusive,None
+image_ben_3185.png,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4088.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4110.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4188.jpg,Negative,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4340.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_2954.png,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4806.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4229.jpg,Negative,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4861.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,None
+image_ben_3614.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4318.jpg,Negative,Sarcastic,Non Vulgar,Abusive,None
+image_ben_3427.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4618.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4547.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4850.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4851.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_5000.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_5267.jpg,Negative,Sarcastic,Non Vulgar,Abusive,None
+image_ben_1448.png,Negative,Non-Sarcastic,Vulgar,Abusive,None
+image_ben_1441.png,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_3616.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,None
+image_ben_3484.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_5152.jpg,Neutral,Non-Sarcastic,Vulgar,Abusive,None
+image_ben_3480.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_3452.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4925.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4935.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4543.jpg,Negative,Sarcastic,Vulgar,Abusive,None
+image_ben_3956.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_5294.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,None
+image_ben_5053.jpg,Positive,Sarcastic,Non Vulgar,Abusive,None
+image_ben_4442.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_7676.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4490.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_2305.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3930.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_3817.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4057.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3801.jpg,Neutral,Sarcastic,Vulgar,Abusive,Others
+image_ben_4635.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4264.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_1551.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3938.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4108.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4045.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3706.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_2860.png,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_3954.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4035.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3683.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_1540.png,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_3875.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4804.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3689.jpg,Neutral,Sarcastic,Vulgar,Abusive,Others
+image_ben_5067.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_1185.png,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4936.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4790.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4878.jpg,Neutral,Sarcastic,Vulgar,Abusive,Others
+image_ben_5203.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_185.png,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_5128.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4030.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_3766.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3520.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_1347.png,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4600.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_1317.png,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_2943.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4509.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4872.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4792.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_2333.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5030.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3749.jpg,Neutral,Sarcastic,Vulgar,Abusive,Others
+image_ben_5028.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5151.jpg,Neutral,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5278.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3943.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3933.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4459.jpg,Neutral,Sarcastic,Vulgar,Abusive,Others
+image_ben_4795.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_3814.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4817.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_2592.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5181.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4141.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3762.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5192.jpg,Neutral,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4160.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_3914.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4514.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_2990.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4602.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4217.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4443.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_1577.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5138.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4812.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4538.jpg,Positive,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4647.jpg,Neutral,Sarcastic,Vulgar,Abusive,Others
+image_ben_3497.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5090.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_7677.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_7433.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_3849.jpg,Neutral,Sarcastic,Vulgar,Abusive,Others
+image_ben_4724.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_1295.png,Positive,Sarcastic,Vulgar,Abusive,Others
+image_ben_4893.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5154.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_3882.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_214.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4063.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_1496.png,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_3836.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3928.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4907.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4694.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4597.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4303.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_2947.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3717.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3919.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_326.png,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_7512.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4228.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_2005.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_2003.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_1449.png,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_1904.png,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4890.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_3707.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4985.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5031.jpg,Neutral,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_2967.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4075.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4348.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4919.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4863.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_131.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3989.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5215.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4059.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5187.jpg,Neutral,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4800.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5190.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4692.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_1202.png,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3955.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4320.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4054.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_5102.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3873.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5120.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5300.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5026.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_1073.png,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4889.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4253.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5092.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_3940.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3802.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5198.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5235.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_2956.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3828.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4749.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_3803.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4220.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_3939.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4451.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4942.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_3811.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4802.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4982.jpg,Neutral,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4755.jpg,Positive,Sarcastic,Vulgar,Abusive,Others
+image_ben_3941.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_2389.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4796.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_2991.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5121.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4258.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4065.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5143.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_2963.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4024.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4267.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4628.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_3883.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_215.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3643.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5084.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4737.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_1537.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4771.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5165.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4747.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5099.jpg,Neutral,Sarcastic,Vulgar,Abusive,Others
+image_ben_4485.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5033.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5146.jpg,Positive,Sarcastic,Vulgar,Abusive,Others
+image_ben_4295.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5258.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_1394.png,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4849.jpg,Neutral,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4726.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3862.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_7675.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_5088.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4773.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4159.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5093.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4831.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_3534.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4254.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_2993.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4058.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5188.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5277.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_1543.png,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4053.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4275.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4154.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4940.jpg,Neutral,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4723.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4537.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_114.png,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4859.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4659.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4077.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4729.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4770.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5180.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4226.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_3987.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3848.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4359.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4467.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3208.png,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5204.jpg,Neutral,Sarcastic,Vulgar,Abusive,Others
+image_ben_4827.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4127.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_254.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5116.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5276.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4698.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_1228.png,Positive,Sarcastic,Vulgar,Abusive,Others
+image_ben_1569.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4767.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4734.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3696.jpg,Neutral,Sarcastic,Vulgar,Abusive,Others
+image_ben_5086.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_1392.png,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_5249.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4896.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_1229.png,Positive,Sarcastic,Vulgar,Abusive,Others
+image_ben_4977.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4823.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_5191.jpg,Neutral,Sarcastic,Vulgar,Abusive,Others
+image_ben_4126.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_2957.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4462.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3953.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_2958.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4761.jpg,Positive,Sarcastic,Vulgar,Abusive,Others
+image_ben_5069.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4979.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4095.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4066.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4371.jpg,Neutral,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_1379.png,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3958.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_1319.png,Positive,Sarcastic,Vulgar,Abusive,Others
+image_ben_4140.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3934.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_212.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4765.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_3725.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_2353.png,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3869.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4746.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_5107.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4558.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4721.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_3936.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4666.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4073.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4632.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_1276.png,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4441.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5061.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4114.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5101.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4595.jpg,Positive,Sarcastic,Vulgar,Abusive,Others
+image_ben_3937.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4331.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4070.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_438.png,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4847.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4947.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4908.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_3922.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5110.jpg,Positive,Sarcastic,Vulgar,Abusive,Others
+image_ben_4808.jpg,Neutral,Sarcastic,Vulgar,Abusive,Others
+image_ben_4864.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_5199.jpg,Neutral,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4703.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4776.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Others
+image_ben_4627.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_4933.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Others
+image_ben_4365.jpg,Negative,Sarcastic,Vulgar,Abusive,Others
+image_ben_5292.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Political
+image_ben_123.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_315.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_324.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_4363.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_330.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_3084.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_1991.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_1775.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_137.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_555.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_292.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_4417.jpg,Neutral,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_2037.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_325.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_1105.png,Positive,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_218.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_166.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_1933.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_7246.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_226.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_4352.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_426.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_156.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_354.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_4362.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_1206.png,Negative,Non-Sarcastic,Vulgar,Abusive,Political
+image_ben_290.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_1988.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_7242.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_851.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_4450.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_4688.jpg,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_7247.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_1048.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_596.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_320.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_176.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_1002.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_4027.jpg,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_160.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_294.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_5.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_154.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_237.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_1490.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_161.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_293.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_7237.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Political
+image_ben_2946.png,Negative,Sarcastic,Non Vulgar,Abusive,Political
+image_ben_3038.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_322.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_1038.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Political
+image_ben_348.png,Negative,Sarcastic,Vulgar,Abusive,Political
+image_ben_91.png,Negative,Sarcastic,Non Vulgar,Abusive,"Political, Religion"
+image_ben_1912.png,Negative,Sarcastic,Vulgar,Abusive,"Political, Religion"
+image_ben_77.png,Negative,Sarcastic,Non Vulgar,Abusive,"Political, Religion"
+image_ben_1201.png,Negative,Non-Sarcastic,Vulgar,Abusive,"Political, Religion, Social Sub-groups"
+image_ben_1918.png,Negative,Sarcastic,Non Vulgar,Abusive,"Political, Social Sub-groups"
+image_ben_373.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_1911.png,Negative,Non-Sarcastic,Vulgar,Abusive,Religion
+image_ben_1795.png,Negative,Sarcastic,Vulgar,Abusive,Religion
+image_ben_162.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_530.png,Negative,Sarcastic,Vulgar,Abusive,Religion
+image_ben_1967.png,Negative,Non-Sarcastic,Vulgar,Abusive,Religion
+image_ben_76.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_552.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_372.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_4372.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_69.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_369.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_400.png,Negative,Sarcastic,Vulgar,Abusive,Religion
+image_ben_4513.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_1803.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_1083.png,Positive,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_808.png,Negative,Sarcastic,Vulgar,Abusive,Religion
+image_ben_420.png,Negative,Sarcastic,Vulgar,Abusive,Religion
+image_ben_4671.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_1809.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_536.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_1959.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_529.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_554.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_1079.png,Negative,Sarcastic,Vulgar,Abusive,Religion
+image_ben_3963.jpg,Positive,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_125.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_1000.png,Neutral,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_3812.jpg,Positive,Sarcastic,Vulgar,Abusive,Religion
+image_ben_1847.png,Negative,Non-Sarcastic,Vulgar,Abusive,Religion
+image_ben_4825.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Religion
+image_ben_86.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_4581.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Religion
+image_ben_1074.png,Negative,Sarcastic,Vulgar,Abusive,Religion
+image_ben_10.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_4785.jpg,Negative,Non-Sarcastic,Vulgar,Abusive,Religion
+image_ben_297.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_87.png,Negative,Non-Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_1925.png,Negative,Non-Sarcastic,Vulgar,Abusive,Religion
+image_ben_107.png,Negative,Sarcastic,Non Vulgar,Abusive,Religion
+image_ben_7610.jpg,Negative,Sarcastic,Vulgar,Abusive,Social Sub-groups
+image_ben_1881.png,Positive,Sarcastic,Vulgar,Abusive,Social Sub-groups
+image_ben_7660.jpg,Negative,Sarcastic,Vulgar,Abusive,Social Sub-groups
+image_ben_7641.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Social Sub-groups
+image_ben_7416.jpg,Negative,Sarcastic,Vulgar,Abusive,Social Sub-groups
+image_ben_7566.jpg,Negative,Sarcastic,Non Vulgar,Abusive,Social Sub-groups
+image_ben_244.png,Negative,Sarcastic,Vulgar,Abusive,Social Sub-groups
+image_ben_1796.png,Negative,Sarcastic,Non Vulgar,Abusive,Social Sub-groups
+image_ben_1641.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_3575.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1467.png,Negative,Sarcastic,Vulgar,Non-abusive,Gender
+image_ben_1435.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7619.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7294.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7298.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1913.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_3584.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_3843.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_3394.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_3355.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1632.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1473.png,Negative,Sarcastic,Vulgar,Non-abusive,Gender
+image_ben_1249.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1902.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7448.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_4394.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1331.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7405.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1468.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7593.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_38.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_4039.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7376.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7446.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1861.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7332.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1332.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7603.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_323.png,Negative,Sarcastic,Vulgar,Non-abusive,Gender
+image_ben_7290.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7269.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7450.jpg,Negative,Non-Sarcastic,Vulgar,Non-abusive,Gender
+image_ben_1723.png,Positive,Sarcastic,Vulgar,Non-abusive,Gender
+image_ben_2499.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_4576.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1495.png,Negative,Sarcastic,Vulgar,Non-abusive,Gender
+image_ben_4838.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_3500.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_3564.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1306.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7307.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1696.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1535.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_5007.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_2500.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7426.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1459.png,Negative,Sarcastic,Vulgar,Non-abusive,Gender
+image_ben_7473.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7340.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1497.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7291.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7485.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_3756.jpg,Neutral,Sarcastic,Vulgar,Non-abusive,Gender
+image_ben_7640.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_1430.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_2167.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_4172.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7419.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7395.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Gender
+image_ben_7379.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Gender, Individual"
+image_ben_694.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Gender, Individual"
+image_ben_7309.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Gender, Individual"
+image_ben_7357.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Gender, Individual"
+image_ben_7276.jpg,Negative,Sarcastic,Vulgar,Non-abusive,"Gender, Individual"
+image_ben_4665.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Gender, Individual"
+image_ben_468.png,Negative,Sarcastic,Vulgar,Non-abusive,"Gender, Individual"
+image_ben_7318.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Gender, Individual, Political"
+image_ben_1844.png,Negative,Sarcastic,Vulgar,Non-abusive,"Gender, Individual, Political"
+image_ben_753.png,Negative,Sarcastic,Vulgar,Non-abusive,"Gender, National Origin"
+image_ben_544.png,Negative,Sarcastic,Vulgar,Non-abusive,"Gender, National Origin, Religion"
+image_ben_729.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Gender, Political"
+image_ben_1907.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Gender, Religion"
+image_ben_678.png,Negative,Sarcastic,Vulgar,Non-abusive,"Gender, Religion"
+image_ben_7656.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Gender, Social Sub-groups"
+image_ben_7654.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Gender, Social Sub-groups"
+image_ben_3019.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7384.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_3471.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1565.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4415.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4336.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3378.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4484.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4989.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3636.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4586.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7564.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_607.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1674.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3822.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_31.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7277.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_1457.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5242.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1942.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5039.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7201.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7299.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3412.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7319.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5241.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1234.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7704.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_485.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4719.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7481.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3592.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4644.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4128.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7200.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7583.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_2900.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5223.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4860.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7207.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_3757.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_526.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1385.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4507.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7475.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3389.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5289.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3377.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4912.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4759.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_2934.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7266.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3545.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7578.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7420.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_3750.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_110.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3831.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7441.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_4760.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4524.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3617.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7454.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7533.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4210.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3424.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7257.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4209.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1456.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4932.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1272.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7360.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_3833.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4794.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7361.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5158.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7682.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7697.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7287.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_960.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4900.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3349.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4972.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4714.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7588.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7484.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4613.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_259.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1383.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7268.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5261.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3619.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1404.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4911.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_795.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5256.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7227.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_3552.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4155.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5119.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3375.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7455.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5246.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1944.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4611.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5166.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7649.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7396.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7304.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3426.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7264.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7428.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_782.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1147.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4463.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7223.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7399.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_4293.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4142.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7553.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4100.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7437.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_2105.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4194.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3615.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3852.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3515.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3170.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_2.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1518.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1417.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3431.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3647.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7565.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7260.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7545.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1541.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7279.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7586.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4540.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_2364.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3001.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1365.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7479.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1374.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4304.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4870.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1084.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1268.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3646.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5255.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7255.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3479.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4923.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5189.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4663.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_2508.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4565.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1284.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1458.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_604.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_463.png,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_7310.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1230.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1493.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4609.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7705.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3964.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4298.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7531.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7209.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3423.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3581.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5060.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7274.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7296.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4728.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4661.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3245.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7398.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1107.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1233.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7701.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7570.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7234.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_4684.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3384.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4134.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4508.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5156.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3359.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4945.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4650.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7321.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_5224.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3397.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3551.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5247.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4259.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7581.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7590.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_935.png,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_4488.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7635.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7587.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_608.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1348.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_492.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4886.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3478.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3597.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4266.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4300.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5164.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3381.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4980.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3798.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7664.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1273.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1286.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3422.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7349.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3216.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5157.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3473.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1519.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_2574.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1975.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3970.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4946.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3537.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4202.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7556.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3580.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4952.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1984.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7700.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_551.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_605.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1428.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4544.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7612.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3428.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4475.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1939.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4495.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7192.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1561.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1712.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1359.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3391.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3854.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3969.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7429.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5162.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_256.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5259.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7261.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4562.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_312.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4685.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3383.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3589.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4887.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5230.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4117.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4265.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5231.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4682.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3951.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3732.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_2479.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7347.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7460.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_26.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7262.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4754.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7558.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7284.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_4516.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4060.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7329.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7495.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4094.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_2079.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4612.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7652.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5040.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4162.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_32.png,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_7363.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3856.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4577.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_4121.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5032.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_19.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_2543.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_599.png,Negative,Sarcastic,Vulgar,Non-abusive,Individual
+image_ben_3419.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3627.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_3514.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1399.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_5226.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_1103.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_7375.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Individual
+image_ben_192.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, National Origin"
+image_ben_2057.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, National Origin"
+image_ben_189.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, National Origin"
+image_ben_2254.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, National Origin"
+image_ben_545.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, National Origin"
+image_ben_638.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, National Origin, Political"
+image_ben_1758.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, National Origin, Political"
+image_ben_668.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, National Origin, Political"
+image_ben_629.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, National Origin, Political"
+image_ben_568.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, National Origin, Political, Religion"
+image_ben_582.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, National Origin, Religion"
+image_ben_777.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_3032.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_724.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_567.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_614.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_513.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1981.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_150.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_615.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_265.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_1132.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4307.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_682.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_562.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_697.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_878.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_946.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_672.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1214.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_893.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_840.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_937.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4387.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_788.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_641.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_858.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_945.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1109.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_624.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_743.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_876.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_625.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_627.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1122.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_510.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_489.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_951.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1852.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4389.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1802.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_762.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_3313.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_719.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_700.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1208.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4286.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_494.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_794.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1166.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1121.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4319.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_202.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4017.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1884.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1739.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_524.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1250.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_241.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_454.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_480.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1110.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_260.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_539.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_1011.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_508.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_1067.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_495.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1068.png,Negative,Non-Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_1165.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_5076.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_924.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_931.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_687.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_440.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_488.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_1831.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_514.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_148.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4089.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_834.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4892.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1823.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4385.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_392.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4472.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1099.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_250.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4899.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_812.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1184.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_444.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4434.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1895.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_497.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1024.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1012.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_367.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_319.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_855.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_603.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_727.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1851.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1092.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_745.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_856.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1187.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_258.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_618.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4879.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_989.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1118.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1096.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_6.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_877.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_366.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_868.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_665.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_268.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_847.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_669.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_881.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1061.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_5023.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1183.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_496.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1982.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_2050.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1856.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1794.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4388.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4473.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_963.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_593.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_972.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_683.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_501.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_4383.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_692.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4203.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_267.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_4470.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_279.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_404.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_845.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4616.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_621.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1190.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4454.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1857.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1152.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_642.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_720.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_620.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_1173.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_462.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_3992.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_988.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1759.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1789.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1108.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_705.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4526.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_793.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_723.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1111.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_919.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_18.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4309.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_686.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_4204.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_531.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_407.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1765.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1175.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_647.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_710.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_3675.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_913.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_272.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_918.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_815.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1050.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_535.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_502.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1204.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1873.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_170.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_835.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_4312.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_699.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4390.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1879.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1901.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1186.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1754.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_879.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_550.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_938.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_4398.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_275.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_882.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1009.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_914.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_836.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4283.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_680.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_1124.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_807.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_3995.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1875.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1167.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_264.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_2047.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_932.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_3031.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_451.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_1820.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_383.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_731.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_822.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1156.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_896.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_952.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_739.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_867.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_880.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_1100.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_3818.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4384.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1866.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_695.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1757.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_266.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1180.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_984.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_780.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4205.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_257.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_861.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_675.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1896.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1841.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_436.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_971.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_640.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4884.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_632.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4453.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_3184.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_273.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4424.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1813.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1123.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1042.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_16.jpg,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_3880.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_482.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_3813.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1001.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4466.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_693.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_5129.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_622.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_783.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_714.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1106.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_601.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_1019.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_498.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_735.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_776.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1112.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_852.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_3169.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_649.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_635.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_656.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_628.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4380.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_690.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_713.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1737.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_197.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_484.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_796.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4391.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1908.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_870.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_517.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_775.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1774.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_616.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_722.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_4200.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_994.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1782.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_198.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1868.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_1070.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_493.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_787.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political"
+image_ben_650.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political"
+image_ben_901.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_744.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_402.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_583.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_981.png,Negative,Sarcastic,Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_954.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_949.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_979.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_696.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_1207.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_948.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_443.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_667.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_862.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_657.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_662.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Political, Religion"
+image_ben_559.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Religion"
+image_ben_1168.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Religion"
+image_ben_1956.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,"Individual, Religion"
+image_ben_1178.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Religion"
+image_ben_3998.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Religion"
+image_ben_2006.png,Positive,Sarcastic,Non Vulgar,Non-abusive,"Individual, Religion"
+image_ben_520.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Religion"
+image_ben_478.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Religion"
+image_ben_447.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Religion"
+image_ben_677.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Religion"
+image_ben_609.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Religion"
+image_ben_1509.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Individual, Social Sub-groups"
+image_ben_986.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_758.png,Negative,Sarcastic,Vulgar,Non-abusive,National Origin
+image_ben_71.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_748.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_217.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_546.png,Negative,Sarcastic,Vulgar,Non-abusive,National Origin
+image_ben_2496.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_7335.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_1930.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_384.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_2056.png,Positive,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_1749.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_491.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_1850.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_7338.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_7336.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_806.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_1388.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_747.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_3026.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_534.png,Negative,Sarcastic,Vulgar,Non-abusive,National Origin
+image_ben_7339.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_1462.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_7457.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_543.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_883.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_2338.png,Positive,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_733.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_2124.png,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_7327.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_7439.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,National Origin
+image_ben_761.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Others"
+image_ben_1871.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Political"
+image_ben_547.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Political"
+image_ben_1730.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Political"
+image_ben_1751.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Political"
+image_ben_1133.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Political"
+image_ben_755.png,Negative,Sarcastic,Vulgar,Non-abusive,"National Origin, Political"
+image_ben_442.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Political"
+image_ben_570.png,Negative,Sarcastic,Vulgar,Non-abusive,"National Origin, Political, Religion"
+image_ben_888.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Political, Religion"
+image_ben_563.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Political, Religion"
+image_ben_537.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Religion"
+image_ben_569.png,Negative,Sarcastic,Vulgar,Non-abusive,"National Origin, Religion"
+image_ben_167.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Religion"
+image_ben_636.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Religion"
+image_ben_681.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Religion"
+image_ben_707.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Religion"
+image_ben_1154.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"National Origin, Religion"
+image_ben_509.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Religion"
+image_ben_928.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"National Origin, Religion"
+image_ben_2915.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2085.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1305.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4691.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5265.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7498.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4221.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1437.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4325.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1699.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4412.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3088.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1973.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1397.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3475.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2475.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3548.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3536.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4517.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5202.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1539.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_903.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3481.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3075.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3270.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3152.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5153.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1709.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3425.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1071.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3898.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3106.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3342.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1573.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1224.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3533.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4905.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3403.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4245.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1427.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3343.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2980.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3087.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2341.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1349.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1003.png,Negative,Sarcastic,Vulgar,Non-abusive,None
+image_ben_5284.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3897.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3457.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3406.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3562.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4633.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1440.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1258.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7194.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3339.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7210.jpg,Negative,Sarcastic,Vulgar,Non-abusive,None
+image_ben_2786.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2453.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1461.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3659.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7633.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1402.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7708.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4998.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_228.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7699.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7707.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7618.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3345.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3905.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3399.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4876.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_42.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2061.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3609.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1351.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3069.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4585.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_62.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4248.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_61.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1362.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4256.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1721.png,Positive,Sarcastic,Vulgar,Non-abusive,None
+image_ben_4364.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4322.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_50.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2848.png,Negative,Sarcastic,Vulgar,Non-abusive,None
+image_ben_3022.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_573.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4397.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4991.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4928.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3960.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3322.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5008.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7215.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3593.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2422.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3330.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1779.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3658.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5268.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1266.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5228.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3518.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7404.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_173.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3018.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3113.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2910.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3354.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3237.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3418.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4112.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4212.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3557.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1263.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4711.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7714.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4637.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2933.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3370.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3149.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4962.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4523.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3363.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3436.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2703.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1334.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5145.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3325.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3625.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1315.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4994.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2912.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3392.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7306.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4956.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3573.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7217.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_99.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3104.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_44.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4170.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_892.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3415.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7673.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7639.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4542.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_49.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4180.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_78.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4455.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_419.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2447.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1308.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3320.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3411.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3563.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3565.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7670.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2953.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1215.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1555.png,Negative,Non-Sarcastic,Vulgar,Non-abusive,None
+image_ben_4085.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3455.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4958.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7717.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4874.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3493.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3465.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_105.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3361.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1029.png,Negative,Sarcastic,Vulgar,Non-abusive,None
+image_ben_5281.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1409.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4129.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1296.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3549.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1378.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3136.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1278.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1270.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4444.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3599.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4069.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3623.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3525.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3556.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7222.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1876.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1244.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1324.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3092.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3555.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1287.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3338.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3351.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7710.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4124.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3347.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4545.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7308.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5130.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4710.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3603.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5055.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3495.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7300.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3685.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5291.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2929.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2095.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1352.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4238.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1691.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3904.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4068.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3887.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3642.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7712.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7229.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3398.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1407.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3467.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3357.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7672.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2454.png,Negative,Sarcastic,Vulgar,Non-abusive,None
+image_ben_4718.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3093.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3449.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5297.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1716.png,Positive,Sarcastic,Vulgar,Non-abusive,None
+image_ben_3172.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1277.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5114.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1245.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7713.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2097.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3910.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3476.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2281.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1705.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3686.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3638.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3532.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1382.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1720.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3606.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3365.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4237.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7718.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3460.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7487.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4883.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3148.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4901.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4605.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4528.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4185.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5019.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4949.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3630.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3529.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3326.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3489.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4083.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7305.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2948.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5098.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4775.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4084.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2207.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_43.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4954.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7282.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3209.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3400.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4569.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7203.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3402.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4173.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4076.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7456.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3332.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_907.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_53.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4273.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5253.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3324.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5257.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4179.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3893.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1294.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7373.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4885.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4232.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7233.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3890.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4113.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4924.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3896.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3360.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_63.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_48.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7620.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1726.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2890.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2058.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5049.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_57.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3341.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4584.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4176.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3566.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3530.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1314.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1704.png,Positive,Sarcastic,Vulgar,Non-abusive,None
+image_ben_4191.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_64.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5106.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1708.png,Negative,Sarcastic,Vulgar,Non-abusive,None
+image_ben_3900.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4125.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3374.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5125.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3369.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4882.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4655.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1342.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7199.jpg,Negative,Sarcastic,Vulgar,Non-abusive,None
+image_ben_4074.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2908.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7529.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4251.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4909.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3601.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4190.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3314.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2452.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2474.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1226.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_238.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5184.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4461.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7462.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4087.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3961.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3639.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_103.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2888.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1338.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1595.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3505.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4995.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5091.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1400.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1444.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_56.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1598.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3637.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3488.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3553.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4939.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3372.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1711.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1364.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4102.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4067.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4920.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5059.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1416.png,Neutral,Sarcastic,Vulgar,Non-abusive,None
+image_ben_1328.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4276.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1710.png,Positive,Sarcastic,Vulgar,Non-abusive,None
+image_ben_3809.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7559.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3033.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2487.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3485.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4456.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_13.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1377.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1246.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4929.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2460.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1714.png,Negative,Sarcastic,Vulgar,Non-abusive,None
+image_ben_1283.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3064.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4580.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3521.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5056.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4174.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3568.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4880.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1274.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1297.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5225.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5141.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3531.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3409.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7293.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3516.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7259.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7617.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_29.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4961.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1271.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4246.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3651.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3206.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7191.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3129.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1282.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5127.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1706.png,Negative,Sarcastic,Vulgar,Non-abusive,None
+image_ben_3373.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3420.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3629.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4606.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2960.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3501.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1717.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2757.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4233.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4269.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3333.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_28.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3464.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7637.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1289.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3982.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1470.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3574.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3447.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3986.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3244.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3633.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3527.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3105.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1700.png,Negative,Sarcastic,Vulgar,Non-abusive,None
+image_ben_3483.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1300.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2907.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5272.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4953.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4963.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3604.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3461.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1983.png,Negative,Sarcastic,Vulgar,Non-abusive,None
+image_ben_1337.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3000.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1309.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4922.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3506.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7219.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4489.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4354.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1299.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5003.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3147.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3405.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3444.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1429.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4297.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3559.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3657.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_2936.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4592.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4404.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1698.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5035.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3894.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4704.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3434.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1221.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1265.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3336.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3337.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7409.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4536.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4213.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4103.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4573.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4118.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3063.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_5233.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_902.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7195.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1801.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3558.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3404.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4106.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4712.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3810.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3921.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4477.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_46.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4171.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3468.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3126.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3654.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3114.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1235.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3204.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4460.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1209.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4182.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3618.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1783.png,Negative,Sarcastic,Vulgar,Non-abusive,None
+image_ben_2916.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_101.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3650.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_7302.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_512.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_1432.png,Negative,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3117.png,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3649.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_239.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_3448.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,None
+image_ben_4215.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7333.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2370.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_941.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_2898.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_1643.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_1659.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_207.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1671.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_126.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3743.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_205.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1672.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_3376.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_781.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4904.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7514.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7541.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2772.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4869.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5016.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1607.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3631.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3791.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5122.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_15.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3168.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_281.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2924.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_929.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1780.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_752.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4588.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1257.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7483.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4224.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7317.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4005.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5163.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7423.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4153.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2928.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4599.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4038.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1570.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1211.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1527.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_3996.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4138.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1687.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2964.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1547.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5171.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2925.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2501.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4875.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4968.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1252.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3799.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1549.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_842.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2814.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5018.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1670.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_224.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1534.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2029.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1191.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1683.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_193.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1653.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1693.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1499.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3329.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2798.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1583.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1618.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2911.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3796.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1655.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_922.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7467.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_930.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3714.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3197.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1575.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2571.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1406.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4973.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7614.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1660.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3806.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2403.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2714.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1675.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_145.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_4816.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4097.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_317.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1648.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1513.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3805.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2969.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3765.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3037.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5169.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7281.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_132.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7320.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_274.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2439.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2222.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5112.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4199.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7616.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3807.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1657.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1055.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4096.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_206.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7513.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_1688.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_109.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3295.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1360.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1684.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_3797.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3718.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4873.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_925.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1485.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_773.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1479.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7582.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3867.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7579.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3974.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4052.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5022.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1566.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1667.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_406.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2052.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5001.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_111.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3582.jpg,Neutral,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_7595.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4026.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1560.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1966.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4828.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_253.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1322.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_467.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3021.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5062.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2922.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_251.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7695.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4148.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1366.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5027.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_895.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1536.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_1196.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_230.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3808.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7471.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3885.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4862.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_825.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_1292.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1227.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1323.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2235.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1072.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_221.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3344.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_833.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1532.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_2564.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_7646.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_3166.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_252.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1584.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1571.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3788.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3741.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_961.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7326.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_7459.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1390.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4043.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3776.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3948.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1148.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_849.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4020.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3950.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7445.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_127.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1525.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_213.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3787.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1129.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2512.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3049.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4902.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3912.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4012.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1673.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7401.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4006.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3024.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4016.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4101.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_282.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_814.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_339.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7402.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_754.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1130.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5174.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1567.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_4799.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4206.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3764.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3259.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_428.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7444.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4062.jpg,Positive,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_1524.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7344.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_3932.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2813.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4903.jpg,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3755.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7634.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_4028.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3754.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7477.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3735.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1563.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1588.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3965.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_999.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1391.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_2363.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1645.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5043.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4867.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1552.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_1668.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_1556.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_4218.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1369.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1492.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7644.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_3572.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7328.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7530.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_7645.jpg,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_2914.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1589.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_128.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3789.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1697.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_2587.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3250.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1259.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_684.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_341.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3030.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3211.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1964.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_477.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_920.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_356.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1381.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1514.png,Negative,Sarcastic,Vulgar,Non-abusive,Others
+image_ben_1977.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_5135.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_3196.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_1647.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Others
+image_ben_965.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_429.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_763.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1936.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_889.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_335.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3156.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_117.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3070.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_909.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_985.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4270.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_39.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_40.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_9.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1069.png,Neutral,Non-Sarcastic,Vulgar,Non-abusive,Political
+image_ben_3005.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3247.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_143.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4376.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_803.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_359.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_987.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_393.png,Negative,Sarcastic,Vulgar,Non-abusive,Political
+image_ben_11.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1032.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3183.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_163.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3746.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3248.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1164.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4333.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1051.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_235.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_120.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_944.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1746.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4301.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_5100.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_885.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1145.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_481.png,Negative,Sarcastic,Vulgar,Non-abusive,Political
+image_ben_4783.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_7535.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_147.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4349.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1005.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_2033.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_800.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4037.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_191.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1766.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_112.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1958.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1768.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_639.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_801.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3876.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_236.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_957.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4310.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_138.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_689.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1943.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_5182.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1010.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1870.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4539.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_5126.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_7383.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1090.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3677.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_245.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_652.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3008.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3085.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_352.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4334.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_7254.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_301.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1075.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_7389.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_306.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_798.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1993.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_307.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_82.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4361.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3892.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_305.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_973.png,Negative,Sarcastic,Vulgar,Non-abusive,Political
+image_ben_311.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_314.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_289.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1781.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_587.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_165.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_746.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_310.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4416.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3684.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3988.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_838.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_313.png,Negative,Sarcastic,Vulgar,Non-abusive,Political
+image_ben_7408.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1151.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_93.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1859.png,Negative,Sarcastic,Vulgar,Non-abusive,Political
+image_ben_349.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3151.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1018.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_90.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1028.png,Neutral,Sarcastic,Vulgar,Non-abusive,Political
+image_ben_844.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_172.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_864.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_897.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_338.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_453.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3035.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_92.png,Negative,Sarcastic,Vulgar,Non-abusive,Political
+image_ben_68.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_89.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_365.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_346.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1007.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_598.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1128.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_302.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_350.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1995.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1996.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3039.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4280.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_869.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3036.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3044.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_377.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_240.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1031.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1745.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_318.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_7267.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4019.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1946.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_589.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_911.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_809.png,Negative,Sarcastic,Vulgar,Non-abusive,Political
+image_ben_1203.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1994.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3177.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_327.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_473.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4313.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3007.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1006.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4649.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_7380.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_345.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_816.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_741.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_831.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4409.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4314.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_135.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_7248.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1171.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_5066.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4330.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4408.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_715.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_141.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_37.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_88.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_577.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_819.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_1153.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_155.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_247.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_186.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_177.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_818.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4414.jpg,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_378.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3050.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_670.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_73.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4278.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_4311.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_3877.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Political
+image_ben_179.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Political, Religion"
+image_ben_970.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Political, Religion"
+image_ben_1799.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Political, Religion"
+image_ben_1159.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Political, Religion"
+image_ben_4373.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,"Political, Religion"
+image_ben_3043.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,"Political, Religion"
+image_ben_157.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Political, Religion"
+image_ben_133.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Political, Religion"
+image_ben_100.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Political, Religion"
+image_ben_666.png,Negative,Sarcastic,Non Vulgar,Non-abusive,"Political, Religion"
+image_ben_242.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,"Political, Religion"
+image_ben_1345.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Political, Religion, Social Sub-groups"
+image_ben_1992.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,"Political, Social Sub-groups"
+image_ben_1845.png,Negative,Sarcastic,Vulgar,Non-abusive,"Political, Social Sub-groups"
+image_ben_332.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_2065.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_364.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1380.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_159.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1104.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_5011.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_504.png,Negative,Sarcastic,Vulgar,Non-abusive,Religion
+image_ben_321.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_340.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_549.png,Negative,Sarcastic,Vulgar,Non-abusive,Religion
+image_ben_738.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1197.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1934.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1353.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1764.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1523.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_113.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1431.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_67.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_3352.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_507.png,Negative,Sarcastic,Vulgar,Non-abusive,Religion
+image_ben_328.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_566.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_633.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_3985.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_370.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_22.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1302.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_2060.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_2913.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_2749.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_472.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_278.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1520.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1393.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_475.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_4169.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_374.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_344.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_4292.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_7451.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_36.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_556.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1260.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_3745.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_3739.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1160.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_164.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_12.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_288.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1127.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_124.png,Negative,Sarcastic,Vulgar,Non-abusive,Religion
+image_ben_97.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_887.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1516.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_412.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1926.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1940.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_299.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1343.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_950.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_3051.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_671.png,Negative,Sarcastic,Vulgar,Non-abusive,Religion
+image_ben_1321.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1194.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1882.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_595.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_886.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1368.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_584.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_2053.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_298.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_4236.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_361.png,Negative,Sarcastic,Vulgar,Non-abusive,Religion
+image_ben_4422.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_329.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_368.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_286.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_351.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_380.png,Negative,Sarcastic,Vulgar,Non-abusive,Religion
+image_ben_458.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_810.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_779.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1144.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_427.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1198.png,Neutral,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_750.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_194.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_581.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_394.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_331.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1179.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_4552.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1899.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_3700.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1333.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_2418.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_102.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1371.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_983.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_1405.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_712.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Religion
+image_ben_81.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3305.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7503.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7297.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3229.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3230.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7526.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3231.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3238.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_1511.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_108.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_4072.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7442.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_4071.jpg,Neutral,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7443.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_33.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7625.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7505.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7599.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_246.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7629.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7520.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7574.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_227.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7507.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7432.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7510.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7521.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7523.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7525.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3228.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_1504.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3232.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3240.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_1833.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_1508.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7596.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7502.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7631.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_1792.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_1522.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3301.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7632.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7527.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7606.jpg,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7522.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7506.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7628.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7575.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3303.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3292.png,Negative,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_1500.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7500.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3235.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_1505.png,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_1997.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3239.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3262.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7622.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3241.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7504.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7228.jpg,Negative,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_7508.jpg,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3225.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_119.png,Positive,Non-Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_1502.png,Neutral,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
+image_ben_3234.png,Positive,Sarcastic,Non Vulgar,Non-abusive,Social Sub-groups
