@@ -1,0 +1,2 @@
+# Multilingual-Approach-to-Meme-Based-Hate-Offensive-Speech-Detection
+A multimodal deep learning project for detecting hate, offensive, sarcastic, vulgar, abusive, and targeted content in memes. The system combines OCR-based text extraction and image feature analysis using CNNs, then fuses both modalities for multi-label classification. Evaluated with accuracy, F1-score, and confusion matrix to ensure robustness.  
